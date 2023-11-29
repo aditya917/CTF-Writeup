@@ -2,7 +2,7 @@ CTF Writeup: Vimjail
 
 In the LakeCTF Qualifications, the “Vimjail” challenge was an intriguing puzzle with a very interesting solution. However, before delving into the complexities of the puzzle and the solution, some base information needs to be covered.
 
-<img src="https://github.com/aditya917/CTF-Writeup/assets/52827225/c2c03ef6-80ea-4482-a4ce-c126eedccac4" alt="drawing" width="500"/>
+<img src="https://github.com/aditya917/CTF-Writeup/assets/52827225/c2c03ef6-80ea-4482-a4ce-c126eedccac4" alt="drawing" width="400"/>
 “Vim” is a free and open-source text editor. Vim is extremely fast and capable, mainly due to its lightweight and command-based nature. Vim has a graphical user interface, yet it can also be conveniently run through a terminal (which was the case in this CTF challenge). The text editor has a lot of different commands and programmed keyboard shortcuts, which makes developing the application a lot easier. With multiple community-made plugins for the application, Vim also has the reputation of being highly customizable with many other features.
 
 ![image](https://github.com/aditya917/CTF-Writeup/assets/52827225/4cfe5709-578a-4b70-a69c-a79c4fd56d39)
